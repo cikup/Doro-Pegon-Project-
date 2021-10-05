@@ -14,3 +14,4 @@ https://cikup.com/doro/
 
 [beta-1] 3 Jun 2019 (Android)
 https://cikup.com/doro/download_apk.html Lihat Lebih Sedikit
+okey
