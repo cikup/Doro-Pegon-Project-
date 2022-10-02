@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
 
 
     String copyPegon;
+    
+    //cek
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
